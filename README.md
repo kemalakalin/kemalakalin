@@ -1,7 +1,4 @@
 💻 ⚡ Kemal Akalın
-> initializing profile...
-> loading developer identity...
-> status: ACTIVE
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Focused;Building+Real+World+Products;Always+Learning+Always+Shipping" /> </p>
 🧠 SYSTEM INFO
 Name        : Kemal Akalın
@@ -14,12 +11,6 @@ Frontend    : JavaScript | React | HTML | CSS | Tailwind
 Backend     : Java | Spring Boot | REST API
 Database    : PostgreSQL
 Tools       : Git | Vercel | Postman
-🚀 ACTIVE PROJECT
-🏋️ Garden Fit Club Website
-> launching project...
-> status: live
-
-🔗 https://gardenfit.vercel.app/
 
 [✔] Responsive Design
 [✔] Conversion-Oriented UI
