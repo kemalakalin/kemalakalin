@@ -17,7 +17,7 @@ Tools       : Git | Vercel | Postman
 [✔] Real Business Use Case
 [✔] Clean Layout
 📊 GITHUB ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kemalakalin&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" /> </p>
 🧬 CORE PRINCIPLES
 > clean code
 > user-first design
